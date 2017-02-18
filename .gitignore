@@ -1,0 +1,7 @@
+# exclude everything except data
+
+target_unis.txt
+data.csv
+crawler.js
+parser.py
+run.sh
