@@ -6,7 +6,7 @@
 casperjs crawler.js
 
 # Parse the CSV file to get usefull data
-python3 parser.js
+python3 parser.py
 
 # Push the changes to Git
 git add -A
