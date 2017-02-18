@@ -1,0 +1,12 @@
+nohup: ignoring input
+Executing crawler.js
+GET Brazen Login Page
+Login using username and password
+Wait 10 seconds...
+Waited 10 seconds.
+GET Downloads page and wait 10 seconds...
+Waited 10 seconds.
+Download file..
+Done.
+Executing parser.py
+Executing Git commands
